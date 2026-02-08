@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivani-Sharma-22/Shivani-Sharma-22/blob/main/github-banner.gif)
 <h1 align="center">Hi 👋, I'm Shivani Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align = "right" width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/f40ff25b-7ca6-41f7-8518-d2a2c999d492" />
